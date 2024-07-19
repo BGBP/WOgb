@@ -1,0 +1,25 @@
+body {
+    background-color:rgb(248, 240, 240);
+}
+
+td {
+    border: 1px solid;
+}
+
+.modal-overlay {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: black;
+    opacity: 0.6;
+    top: 0px;
+    left: 0px;
+}
+.modal-img {
+    position: fixed;
+    left:5%;
+    top:5%;
+    width:80%;
+    height:80%;
+    background-color: white;
+}
